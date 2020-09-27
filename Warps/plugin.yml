@@ -1,0 +1,5 @@
+name: Warps
+version: 1.0
+main: de.Yuno.warps.Main
+commands:
+   warp:
